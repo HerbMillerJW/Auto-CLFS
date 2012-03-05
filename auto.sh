@@ -3,4 +3,7 @@ for i in {4..12}; do ./5.$i.sh; done
 for i in {14..16}; do ./5.$i.sh; done
 . 6.2.sh
 for i in {3..8}; do ./6.$i.sh; done
+./6.9-kernel.org.sh
+for i in {10..24}; do ./6.$i.sh; done
+
 
